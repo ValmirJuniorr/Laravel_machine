@@ -1,0 +1,4 @@
+/.vagrant
+dev/*
+!dev/temp/
+ubuntu-xenial-16.04-cloudimg-console.log
